@@ -1,6 +1,10 @@
 ## How to run a retrospective meeting
-### This is how I run engineering team retrospectives, but I have seen the process work for non-technical teams as well.
-### These guidelines are written for the retrospective moderator but they will be useful for anybody participating.
+
+This is how I run engineering team retrospectives, but I have seen the process work for non-technical teams as well.
+
+These guidelines are written for the retrospective moderator but they will be useful for anybody participating.
+
+### The PostIt Retro
 
 1. On the whiteboard, you'll have two columns: Happy and Sad.
 
